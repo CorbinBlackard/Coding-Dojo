@@ -1,0 +1,166 @@
+*{
+    margin: auto;
+}
+.container{
+    width: 970px;
+    height: 1050px;
+    background-color: #245075;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.header{
+    width: 970px;
+    height: 130px;
+    background-color: #245075;
+    border-radius: 20px;
+}
+.pythonImg{
+    display: inline-block;
+    height: 100px;
+}
+.imgBlock{
+    display: inline-block;
+}
+.topText{
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 10px;
+    vertical-align: top;
+    color: white;
+}
+.yellowLink{
+    color: #ffd32f;
+    text-decoration: underline;
+}
+.searchBlock{
+    padding: 8px;
+    background-color: #444444;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+.goButton{
+    padding: 10px;
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    background-color: #235076;
+    border-radius: 5px;
+}
+.aboutBar{
+    background-color: #477ead;
+    height: 70px;
+    width: 800px;
+    border-radius: 15px;
+    margin-top: 25px;
+    
+}
+ul{
+    display: inline-block;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.aboutBarText{
+    display: inline-block; 
+    margin-right: 20px;   
+}
+
+.mainContent{
+    height: 300px;
+    width: 300px;
+    background-color:  #245075;
+    margin-top: 20px;
+    margin-left: 110px;
+    display: inline-block;
+}
+.whiteLinks{
+    color: white;
+    text-decoration: underline;
+    margin: 10px;
+    font-size: 20px;
+}
+.mainContentDisc{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #245075;
+    width: 495px;
+    height: 300px;
+    margin-left: 280px;
+    margin-top: -265px;
+}
+.paragraph{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: #ffd32f;
+    text-align: center;
+    margin-top: 15px;
+}
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+.bottomContent{
+    background-color: white;
+    width: 970px;
+    height: 280px;
+    margin-top: 75px;
+}
+.bLeftContent{
+    width: 440px;
+    height: 280px;
+    background-color: white;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+h4{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    color: black;
+    text-align: center;
+    margin: 10px;
+}
+.bLeftLinks{
+    color: #7aabd7;
+    margin-left: 20px;
+    font-size: 10px;
+}
+.L{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.R{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.bRightContent{
+    width: 440px;
+    height: 280px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.bRightLinks{
+    color: #7aabd7;
+    margin-left: 20px;
+    font-size: 10px;
+}
+.bottomLinks{
+    width: 650px;
+    height: 100px;
+    background-color:  #245075;
+}
+.bLinkText{
+    margin-left: 20px;
+    margin-top: 50px;
+    color: #79acd9;
+    display: inline-block;
+}
