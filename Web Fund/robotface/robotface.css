@@ -1,0 +1,23 @@
+
+#face{
+    width: 500px;
+    height: 500px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 100px;
+}
+.eye{
+    height: 220px;
+    width: 140px;
+    background-color: red;
+    display: inline-block;
+    margin: 50px;
+    margin-top: 15px;
+
+}
+#mouth{
+    height: 120px;
+    width: 500px;
+    background-color: yellow;
+    margin-top: 60px;
+}

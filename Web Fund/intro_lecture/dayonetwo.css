@@ -1,0 +1,37 @@
+*{
+    outline: 0;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+#purple{
+    color: purple;
+}
+
+.indigo{
+    color: indigo;
+}
+
+div{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+#lightblue{
+    background-color: lightblue;
+    padding-top: 300px;
+}
+
+#brown{
+    background-color: brown;
+}
